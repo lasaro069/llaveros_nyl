@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 150px;
+    background: url(../images/img/mesa_trabajo.jpg);
+    background-size: cover;
+    padding-top: 5%;
+}
+
+.cuadro1{
+    
+}
+
+.cuadro2{
+    
+   
+    
+    
+}
+
+body{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    /*background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);*/
+}
+
+.cuadro3{
+    width: 400px;
+    height: 600px;
+    margin-left: 35%;
+    margin-top: %;
+    padding: %;
+}
+
+.formulario1{
+    width: 100%;
+    height: 600px;
+    margin-left: 0%;
+    background-color:;
+  
+}
+
+img{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: -80px;
+}
+
+.accesos{
+    width: 90%;
+    height: 450px;
+    background-color: ;
+    margin-left: 5%;
+    margin-top: 0px;
+}
+
+.llaveros{
+    width: 80%;
+    height: 40px;
+    padding: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    text-align: center;
+    background-color: white;
+    font-family:cursive;
+    font-style: oblique;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.titulo{
+    font-family: sans-serif;
+    text-align: center
+}
+
+.llaveros a{
+    
+    text-decoration: none;
+    color: black;
+    
+}
+
+.contenedor{
+    width: 200px;
+    height: 70px;
+    background-color: ;
+    margin-top: 20px;
+    margin-left: 25%;
+    padding: %;
+    overflow: hidden;
+    padding: 0px;
+}
+
+.redes{
+    width: 40px;
+    height: 50px;
+    background-color: ;
+    margin-left: 10px;
+    margin-top: 5px;
+    float: left;
+    padding: 0px;
+    
+}
+
+h4{
+    font-family: sans-serif;
+    margin-left: 20px
+}
+
+.redes img{
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+    margin-top: 2px;
+    margin-left: 2px;
+    background-color: white;
+    
+}
+
+
+footer{
+    height: 20px;
+    margin-top: 1%;
+    text-align: center;
+    background-color: cadetblue;
+}
